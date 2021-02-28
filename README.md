@@ -9,6 +9,6 @@ IoT learning Python
 
 Інструкції по запуску:
 1) git clone https://github.com/DanyloZhubryd/Python_Lab1.git
-2) git checkout review
-3) cd Python_Lab1
+2) cd Python_Lab1
+3) git checkout review
 4) python main.py
